@@ -1,5 +1,5 @@
 # Ejercicios-PDD-demo-Sigleton-Decorator-en-Csharp-o-Python
-# Armando Montiel Garcia #20210602
+# Nombre: Armando Montiel Garcia #20210602
 # Descripción de la Actividad
 Objetivo: Aplicar los patrones de diseño Singleton y Decorador para construir un sistema de configuración de productos personalizados en una tienda en línea.
 # CODIGO:
